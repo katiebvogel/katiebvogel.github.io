@@ -1,0 +1,18 @@
+h1 {
+	color:white;
+	text-align:center;
+	font-size:40px;
+}
+p {
+	font-family:serif;
+	width:600px;
+	background-color:#eeeeee;
+}
+h2{
+	text-align: center;
+	border:1px solid black;
+	width:300px;
+}
+a { 
+	text-decoration: none;
+}
