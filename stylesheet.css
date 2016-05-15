@@ -11,9 +11,6 @@ h1 {
 	padding: 10px;
 	background-color: grey;
 }
-.main-heading{
-	text-align: center;
-}
 p {
 	font-family:serif;
 	width:600px;
@@ -32,4 +29,7 @@ a {
 	background-color: grey;
 	box-sizing: padding-box;
 	box-shadow: 1px 2px 2px black;
+}
+section {
+	text-align: center;
 }
