@@ -25,11 +25,9 @@ a {
 	text-decoration: underline;
 }
 .box {
-	border-width: inherit;
+	border-width: 3px;
 	background-color: grey;
 	box-sizing: padding-box;
+	padding: 5px;
 	box-shadow: 1px 2px 2px black;
-}
-section {
-	text-align: center;
 }
