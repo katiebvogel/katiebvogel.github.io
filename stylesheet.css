@@ -19,13 +19,16 @@ h2{
 	width:300px;
 }
 a {
-	text-decoration: none;
+	text-decoration: underline;
 }
 .box {
 	border-width: inherit;
 	background-color: grey;
+	box-sizing: padding-box;
+	box-shadow: 1px 2px 2px #000;
 
 }
 section {
-	width: 300px;
+	width: 500px;
+	margin-left: 20px;
 }
