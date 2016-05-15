@@ -13,8 +13,9 @@ h1 {
 }
 p {
 	font-family:serif;
-	width:600px;
+	width:400px;
 	background-color:#eeeeee;
+	margin-left: 10px;
 }
 h2{
 	text-align: center;
