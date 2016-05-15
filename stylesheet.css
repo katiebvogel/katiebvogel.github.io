@@ -17,7 +17,7 @@ h1 {
 	background-color: grey;
 }
 h1 p {
-	text-align: center; 
+	text-align: center;
 	width: 100 px;
 }
 p {
@@ -39,7 +39,8 @@ a {
 	box-sizing: padding-box;
 	box-shadow: 1px 2px 2px black;
 }
-section {
+.professional-experience{
 	width: 500px;
 	margin-left: 20px;
+	background-color: grey; 
 }
