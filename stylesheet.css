@@ -1,9 +1,4 @@
-.main-content {
-	width: 500px;
-	padding: 30px;
-	border: 1px solid #dddddd;
-	margin: 30px auto 0 auto;
-}
+
 body {
 	background-image: url(http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2012/10/background+pattern+design+33.jpg);
 	background-position: top left;
@@ -38,9 +33,4 @@ a {
 	background-color: grey;
 	box-sizing: padding-box;
 	box-shadow: 1px 2px 2px black;
-}
-.section professional-experience {
-	width: 500px;
-	margin-left: 40px;
-	background-color: grey;
 }
