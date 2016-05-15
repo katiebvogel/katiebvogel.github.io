@@ -10,6 +10,7 @@ h1 {
 	font-size:40px;
 	padding: 10px;
 	background-color: grey;
+	border-radius:15%;
 }
 p {
 	font-family:serif;
@@ -30,5 +31,5 @@ a {
 	background-color: grey;
 	box-sizing: padding-box;
 	padding: 5px;
-	box-shadow: 1px 2px 2px black;
+	box-shadow: 3px 2px 2px black;
 }
