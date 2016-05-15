@@ -1,3 +1,6 @@
+body {
+	background-color: red;
+}
 h1 {
 	color:white;
 	text-align:center;
@@ -13,6 +16,14 @@ h2{
 	border:1px solid black;
 	width:300px;
 }
-a { 
+a {
 	text-decoration: none;
+}
+.box {
+	border-width: inherit;
+	background-color: grey;
+
+}
+section {
+	width: 300px;
 }
