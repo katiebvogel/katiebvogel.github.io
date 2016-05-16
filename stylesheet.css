@@ -23,13 +23,11 @@ p {
 	margin-left: 10px;
 }
 h2{
-	text-shadow:1px 1px 1px black;
 	text-align: center;
 	border:2px solid black;
 	width:400px;
 	padding: 5px;
 	background-color: #0066cc;
-	text-decoration-color: white;
 }
 a {
 	text-decoration: underline;
