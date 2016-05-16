@@ -32,10 +32,3 @@ h2{
 a {
 	text-decoration: underline;
 }
-.box {
-	border-width: 3px;
-	background-color: grey;
-	box-sizing: padding-box;
-	padding: 5px;
-	box-shadow: 3px 2px 2px black;
-}
