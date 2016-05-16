@@ -23,6 +23,7 @@ p {
 	margin-left: 10px;
 	border-radius: 5px;
 	border-width: 2px;
+	border-color: black;
 }
 h2{
 	text-align: center;
