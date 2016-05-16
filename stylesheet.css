@@ -14,7 +14,7 @@ h1 {
 	border-width: medium;
 	border-color: black;
 	box-shadow: 5px 5px 5px black;
-	text-shadow: 1px 1px 1px black;
+	text-shadow: 3px 1px 1px black;
 }
 p {
 	font-family:serif;
